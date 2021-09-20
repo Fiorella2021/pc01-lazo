@@ -1,0 +1,20 @@
+Concepto,Criterio,Indicador,Puntaje
+Clasificación Socioeconómica,Clasificación Socioeconómica,Pobreza extrema,15
+Clasificación Socioeconómica,Clasificación Socioeconómica,Pobreza,5
+Talento Académico,Rendimiento académico obtenido acumulado o en el semestre (según detalle del numeral 3.1.2 de las bases),Primer o segundo puesto,50
+Talento Académico,Rendimiento académico obtenido acumulado o en el semestre (según detalle del numeral 3.1.2 de las bases),Décimo superior,40
+Talento Académico,Rendimiento académico obtenido acumulado o en el semestre (según detalle del numeral 3.1.2 de las bases),Quinto superior,30
+Talento Académico,Rendimiento académico obtenido acumulado o en el semestre (según detalle del numeral 3.1.2 de las bases),Tercio superior,20
+Calidad de institución,Pertenece a la lista de IES priorizadas,Puntaje adicional,15
+Retorno estimado del programa de estudios,Retorno estimado de la carrera de estudios,Carrera con retorno alto,10
+Retorno estimado del programa de estudios,Retorno estimado de la carrera de estudios,Carrera con retorno medio,7
+Condiciones priorizadas,Víctima de la Violencia habida en el país durante los años 1980-2000,Puntaje adicional,"05 puntos al acreditar una condición priorizada, en caso de acreditarse dos o más condiciones se otorgará un puntaje máximo de 10 puntos."
+Condiciones priorizadas,Discapacidad,Puntaje adicional,"05 puntos al acreditar una condición priorizada, en caso de acreditarse dos o más condiciones se otorgará un puntaje máximo de 10 puntos."
+Condiciones priorizadas,"Pertenece a las comunidades nativas amazónicas, campesinas o poblaciones afroperuanas",Puntaje adicional,"05 puntos al acreditar una condición priorizada, en caso de acreditarse dos o más condiciones se otorgará un puntaje máximo de 10 puntos."
+Condiciones priorizadas,"Residir en los distritos incorporados al ámbito del Vraem o Huallaga, de acuerdo con la norma específica o haber cursado el último año de la educación básica regular o educación básica alternativa en el ámbito del Vraem o Huallaga.",Puntaje adicional,"05 puntos al acreditar una condición priorizada, en caso de acreditarse dos o más condiciones se otorgará un puntaje máximo de 10 puntos."
+Condiciones priorizadas,Licenciados de las Fuerzas Armadas (FFAA),Puntaje adicional,"05 puntos al acreditar una condición priorizada, en caso de acreditarse dos o más condiciones se otorgará un puntaje máximo de 10 puntos."
+Condiciones priorizadas,Voluntarios,Puntaje adicional,"05 puntos al acreditar una condición priorizada, en caso de acreditarse dos o más condiciones se otorgará un puntaje máximo de 10 puntos."
+Condiciones priorizadas,Bomberos activos e hijos de bomberos,Puntaje adicional,"05 puntos al acreditar una condición priorizada, en caso de acreditarse dos o más condiciones se otorgará un puntaje máximo de 10 puntos."
+Condiciones priorizadas,Población expuesta a metales pesados y otras sustancias químicas,Puntaje adicional,"05 puntos al acreditar una condición priorizada, en caso de acreditarse dos o más condiciones se otorgará un puntaje máximo de 10 puntos."
+Condiciones priorizadas,Población afectada por la deflagración ocurrida el 23/01/2020 en el distrito de Villa el Salvador.,Puntaje adicional,"05 puntos al acreditar una condición priorizada, en caso de acreditarse dos o más condiciones se otorgará un puntaje máximo de 10 puntos."
+Total,,,100
